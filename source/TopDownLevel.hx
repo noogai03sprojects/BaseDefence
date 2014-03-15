@@ -1,5 +1,6 @@
 package;
 import flash.errors.Error;
+import flixel.FlxBasic;
 import flixel.FlxCamera;
 import flixel.FlxG;
 import flixel.FlxSprite;
@@ -52,7 +53,17 @@ class TopDownLevel extends FlxGroup
 	override public function update():Void 
 	{
 		FlxG.collide(player, walls);
+		FlxG.collide(player.bullets, walls, hitWall);
 		super.update();
 	}
+	
+	//{ callbacks
+	
+	function hitWall(A:FlxBasic, B:FlxBasic)
+	{
+		A.kill();
+	}
+	
+	//}
 	
 }

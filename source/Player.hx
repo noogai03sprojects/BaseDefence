@@ -24,7 +24,7 @@ class Player extends FlxSprite
 	var walking:Bool = false;
 	
 	var fireTimer : Float = 0;
-	var fireDelay : Float = 2;
+	var fireDelay : Float = 1.5;
 	
 	public var bullets:FlxTypedGroup<Bullet>;
 	
@@ -183,16 +183,22 @@ class Player extends FlxSprite
 					case LEFT:
 						bul.angle = 180;
 				}
-				bul.angle += FlxRandom.floatRanged( -40, 40);
+				bul.angle += FlxRandom.floatRanged( -30, 30);
 			}
 			
 			Sounds.Shotgun_Fire.play(true);
+			Sounds.Shotgun_Fire.onComplete = Reload;
 			
 			//FlxG.camera.shake();
 			//FlxG.camera.
 			
 			fireTimer = fireDelay;
 		}
+	}
+	
+	public static function Reload() : Void
+	{
+		Sounds.Shotgun_Reload.play(true);
 	}
 	
 }

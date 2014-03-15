@@ -74,6 +74,14 @@ class DefaultAssetLibrary extends AssetLibrary {
 		type.set ("assets/sounds/aup/fire.aup", Reflect.field (AssetType, "binary".toUpperCase ()));
 		className.set ("assets/sounds/aup/fire_data/e00/d00/e00000a3.au", __ASSET__assets_sounds_aup_fire_data_e00_d00_e00000a3_au);
 		type.set ("assets/sounds/aup/fire_data/e00/d00/e00000a3.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/fire_data/e00/d00/e000035e.au", __ASSET__assets_sounds_aup_fire_data_e00_d00_e000035e_au);
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e000035e.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/fire_data/e00/d00/e0000605.au", __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000605_au);
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000605.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/fire_data/e00/d00/e0000713.au", __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000713_au);
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000713.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/fire_data/e00/d00/e0000c9c.au", __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000c9c_au);
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000c9c.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		className.set ("assets/sounds/aup/fire_data/e00/d00/e0000fd8.au", __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000fd8_au);
 		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000fd8.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		className.set ("assets/sounds/aup/loadShell.aup", __ASSET__assets_sounds_aup_loadshell_aup);
@@ -84,10 +92,44 @@ class DefaultAssetLibrary extends AssetLibrary {
 		type.set ("assets/sounds/aup/loadShell_data/e00/d00/e000098a.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		className.set ("assets/sounds/aup/reload.aup", __ASSET__assets_sounds_aup_reload_aup);
 		type.set ("assets/sounds/aup/reload.aup", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e00000af.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00000af_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00000af.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e00000d0.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00000d0_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00000d0.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e00002d5.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00002d5_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00002d5.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e00004aa.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00004aa_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00004aa.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e00004dd.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00004dd_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00004dd.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e00005cb.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00005cb_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00005cb.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e00006b9.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00006b9_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00006b9.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		className.set ("assets/sounds/aup/reload_data/e00/d00/e00009ef.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e00009ef_au);
 		type.set ("assets/sounds/aup/reload_data/e00/d00/e00009ef.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/reload_data/e00/d00/e0000c59.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e0000c59_au);
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e0000c59.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		className.set ("assets/sounds/aup/reload_data/e00/d00/e0000fe3.au", __ASSET__assets_sounds_aup_reload_data_e00_d00_e0000fe3_au);
 		type.set ("assets/sounds/aup/reload_data/e00/d00/e0000fe3.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun.aup", __ASSET__assets_sounds_aup_shotgun_aup);
+		type.set ("assets/sounds/aup/shotgun.aup", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e000017f.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e000017f_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e000017f.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e00001b4.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e00001b4_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e00001b4.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e00002bd.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e00002bd_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e00002bd.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000504.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000504_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000504.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000a4d.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000a4d_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000a4d.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000b7d.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000b7d_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000b7d.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000d99.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000d99_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000d99.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		className.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000e32.au", __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000e32_au);
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000e32.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		className.set ("assets/sounds/shotgun_fire.wav", __ASSET__assets_sounds_shotgun_fire_wav);
 		type.set ("assets/sounds/shotgun_fire.wav", Reflect.field (AssetType, "sound".toUpperCase ()));
 		className.set ("assets/sounds/shotgun_load_shell.wav", __ASSET__assets_sounds_shotgun_load_shell_wav);
@@ -138,6 +180,14 @@ class DefaultAssetLibrary extends AssetLibrary {
 		type.set ("assets/sounds/aup/fire.aup", Reflect.field (AssetType, "binary".toUpperCase ()));
 		path.set ("assets/sounds/aup/fire_data/e00/d00/e00000a3.au", "assets/sounds/aup/fire_data/e00/d00/e00000a3.au");
 		type.set ("assets/sounds/aup/fire_data/e00/d00/e00000a3.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/fire_data/e00/d00/e000035e.au", "assets/sounds/aup/fire_data/e00/d00/e000035e.au");
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e000035e.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/fire_data/e00/d00/e0000605.au", "assets/sounds/aup/fire_data/e00/d00/e0000605.au");
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000605.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/fire_data/e00/d00/e0000713.au", "assets/sounds/aup/fire_data/e00/d00/e0000713.au");
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000713.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/fire_data/e00/d00/e0000c9c.au", "assets/sounds/aup/fire_data/e00/d00/e0000c9c.au");
+		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000c9c.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		path.set ("assets/sounds/aup/fire_data/e00/d00/e0000fd8.au", "assets/sounds/aup/fire_data/e00/d00/e0000fd8.au");
 		type.set ("assets/sounds/aup/fire_data/e00/d00/e0000fd8.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		path.set ("assets/sounds/aup/loadShell.aup", "assets/sounds/aup/loadShell.aup");
@@ -148,10 +198,44 @@ class DefaultAssetLibrary extends AssetLibrary {
 		type.set ("assets/sounds/aup/loadShell_data/e00/d00/e000098a.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		path.set ("assets/sounds/aup/reload.aup", "assets/sounds/aup/reload.aup");
 		type.set ("assets/sounds/aup/reload.aup", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e00000af.au", "assets/sounds/aup/reload_data/e00/d00/e00000af.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00000af.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e00000d0.au", "assets/sounds/aup/reload_data/e00/d00/e00000d0.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00000d0.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e00002d5.au", "assets/sounds/aup/reload_data/e00/d00/e00002d5.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00002d5.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e00004aa.au", "assets/sounds/aup/reload_data/e00/d00/e00004aa.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00004aa.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e00004dd.au", "assets/sounds/aup/reload_data/e00/d00/e00004dd.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00004dd.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e00005cb.au", "assets/sounds/aup/reload_data/e00/d00/e00005cb.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00005cb.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e00006b9.au", "assets/sounds/aup/reload_data/e00/d00/e00006b9.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e00006b9.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		path.set ("assets/sounds/aup/reload_data/e00/d00/e00009ef.au", "assets/sounds/aup/reload_data/e00/d00/e00009ef.au");
 		type.set ("assets/sounds/aup/reload_data/e00/d00/e00009ef.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/reload_data/e00/d00/e0000c59.au", "assets/sounds/aup/reload_data/e00/d00/e0000c59.au");
+		type.set ("assets/sounds/aup/reload_data/e00/d00/e0000c59.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		path.set ("assets/sounds/aup/reload_data/e00/d00/e0000fe3.au", "assets/sounds/aup/reload_data/e00/d00/e0000fe3.au");
 		type.set ("assets/sounds/aup/reload_data/e00/d00/e0000fe3.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun.aup", "assets/sounds/aup/shotgun.aup");
+		type.set ("assets/sounds/aup/shotgun.aup", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e000017f.au", "assets/sounds/aup/shotgun_data/e00/d00/e000017f.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e000017f.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e00001b4.au", "assets/sounds/aup/shotgun_data/e00/d00/e00001b4.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e00001b4.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e00002bd.au", "assets/sounds/aup/shotgun_data/e00/d00/e00002bd.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e00002bd.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000504.au", "assets/sounds/aup/shotgun_data/e00/d00/e0000504.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000504.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000a4d.au", "assets/sounds/aup/shotgun_data/e00/d00/e0000a4d.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000a4d.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000b7d.au", "assets/sounds/aup/shotgun_data/e00/d00/e0000b7d.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000b7d.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000d99.au", "assets/sounds/aup/shotgun_data/e00/d00/e0000d99.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000d99.au", Reflect.field (AssetType, "binary".toUpperCase ()));
+		path.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000e32.au", "assets/sounds/aup/shotgun_data/e00/d00/e0000e32.au");
+		type.set ("assets/sounds/aup/shotgun_data/e00/d00/e0000e32.au", Reflect.field (AssetType, "binary".toUpperCase ()));
 		path.set ("assets/sounds/shotgun_fire.wav", "assets/sounds/shotgun_fire.wav");
 		type.set ("assets/sounds/shotgun_fire.wav", Reflect.field (AssetType, "sound".toUpperCase ()));
 		path.set ("assets/sounds/shotgun_load_shell.wav", "assets/sounds/shotgun_load_shell.wav");
@@ -622,13 +706,34 @@ class __ASSET__assets_images_tiles_png extends flash.display.BitmapData { public
 class __ASSET__assets_music_music_goes_here_txt extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_fire_aup extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_fire_data_e00_d00_e00000a3_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_fire_data_e00_d00_e000035e_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000605_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000713_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000c9c_au extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_fire_data_e00_d00_e0000fd8_au extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_loadshell_aup extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_loadshell_data_e00_d00_e00005f8_au extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_loadshell_data_e00_d00_e000098a_au extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_reload_aup extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00000af_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00000d0_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00002d5_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00004aa_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00004dd_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00005cb_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00006b9_au extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_reload_data_e00_d00_e00009ef_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_reload_data_e00_d00_e0000c59_au extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_aup_reload_data_e00_d00_e0000fe3_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_aup extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e000017f_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e00001b4_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e00002bd_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000504_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000a4d_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000b7d_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000d99_au extends flash.utils.ByteArray { }
+class __ASSET__assets_sounds_aup_shotgun_data_e00_d00_e0000e32_au extends flash.utils.ByteArray { }
 class __ASSET__assets_sounds_shotgun_fire_wav extends flash.media.Sound { }
 class __ASSET__assets_sounds_shotgun_load_shell_wav extends flash.media.Sound { }
 class __ASSET__assets_sounds_shotgun_raw_mp3 extends flash.media.Sound { }
@@ -636,6 +741,27 @@ class __ASSET__assets_sounds_shotgun_reload_wav extends flash.media.Sound { }
 
 
 #elseif html5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

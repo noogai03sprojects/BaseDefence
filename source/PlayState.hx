@@ -12,12 +12,19 @@ import flixel.util.FlxMath;
  */
 class PlayState extends FlxState
 {
+	
+	var level:TopDownLevel;
+	
 	/**
 	 * Function that is called up when to state is created to set it up. 
 	 */
 	override public function create():Void
 	{
-		super.create();
+		Sounds.loadSounds();
+		
+		level = new TopDownLevel(this);
+		add(level);
+		super.create();		
 	}
 	
 	/**

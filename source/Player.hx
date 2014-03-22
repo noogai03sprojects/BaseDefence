@@ -189,7 +189,7 @@ class Player extends FlxSprite
 			Sounds.Shotgun_Fire.play(true);
 			Sounds.Shotgun_Fire.onComplete = Reload;
 			
-			//FlxG.camera.shake();
+			FlxG.camera.shake();
 			//FlxG.camera.
 			
 			fireTimer = fireDelay;

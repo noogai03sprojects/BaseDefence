@@ -71,7 +71,9 @@ class TopDownLevel extends FlxGroup
 		var enemy:Enemy = recycleEnemy();
 		enemy.initPaths(walls, core);
 		
-		FlxG.camera.zoom = 3;		
+		FlxG.camera.zoom = 3;	
+		FlxG.camera.width = Std.int(FlxG.camera.width / 3);
+		FlxG.camera.height = Std.int(FlxG.camera.height / 3);
 		FlxG.camera.follow(player, FlxCamera.STYLE_LOCKON, null, 5);
 		//FlxG.camera.deadzone = null;
 		
